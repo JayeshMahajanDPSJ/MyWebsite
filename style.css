@@ -1,0 +1,35 @@
+
+            h1{
+                color:White;      
+                border: dashed;
+            }
+         .header{
+            
+           background-image: url("head.jpg");
+             justify-content: center ;
+             display: flex;
+             font-size: larger;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+         }
+         .menu{
+             background-color: black;
+             justify-content: center ;
+             display: flex;
+             font-size: small;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+         }
+         .grid{
+             text-emphasis-color: white;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+           font-weight: bold;
+         }
+         .footer{
+            display: flex;
+            justify-content: left;
+         }
+
+         
